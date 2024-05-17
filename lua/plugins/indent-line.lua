@@ -5,6 +5,9 @@ return {
     -- See `:help ibl`
     main = "ibl",
     opts = {},
+    config = function ()
+      
+    end
   },
   {
     "tpope/vim-sleuth",
